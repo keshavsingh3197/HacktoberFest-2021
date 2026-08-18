@@ -1,64 +1,186 @@
-<p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/keshavsingh4522/hacktoberfest2021/35fc6060c5ddead5792f29a2437fea160dbe9804/Assets/logo-hacktoberfest-full.f42e3b1.svg" width="30%">
-    </a>
-</p>
+# 🎉 HacktoberFest 2021 — Beginner-Friendly Contributions
 
-<h1 align="center"> Hacktoberfest 2021 🎉</h1>
-
-<div align="center">
-  
-<img src="https://img.shields.io/badge/hacktoberfest-2021-blueviolet" alt="Hacktober Badge"/>
- <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
- <a href="https://github.com/keshavsingh4522" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
-
-<a href="https://github.com/open-for-everyone/HacktoberFest2021/pulls"><img src="https://img.shields.io/github/issues-pr/open-for-everyone/HacktoberFest2021" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/open-for-everyone/HacktoberFest2021/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/open-for-everyone/HacktoberFest2021?color=2b9348"></a>
-<a href="https://github.com/open-for-everyone/HacktoberFest2021/blob/master/LICENSE"><img src="https://img.shields.io/github/license/open-for-everyone/HacktoberFest2021?color=2b9348" alt="License Badge"/></a>
-
-</div>
-
-### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
-
-📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
-
-
-> Upload your code in this repository to particular section if folder is not present then create folder.
-> some more repos for contribution
-
-## Rules
-- Motivation Quotes is acceptable.
-- Don't use filthy words and be welcome for beginners and other people in this community.
+[![GitHub issues](https://img.shields.io/github/issues/keshavsingh3197/HacktoberFest-2021)](https://github.com/keshavsingh3197/HacktoberFest-2021/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/keshavsingh3197/HacktoberFest-2021)](https://github.com/keshavsingh3197/HacktoberFest-2021/pulls)
+[![Contributors](https://img.shields.io/github/contributors/keshavsingh3197/HacktoberFest-2021)](https://github.com/keshavsingh3197/HacktoberFest-2021/graphs/contributors)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ---
 
-## Github Contribution Rules
-- Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
-- The pull request must contain commits you made yourself.
-- If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
-- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
-- To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
-- This year, the first 50,000 participants can earn a T-shirt.
+Welcome to **HacktoberFest 2021** — a friendly repo to help beginners make their first open‑source contributions. This file is tailored for the repository `keshavsingh3197/HacktoberFest-2021` and is ready to copy & paste into that project as `README.md`.
+
+> Friendly, well-structured repos help beginners succeed. Let’s make contributing clear, fast, and fun.
+
 ---
 
-Steps for adding your name below
+## 📌 Table of Contents
 
-    1. Fork this repo
-    2. go to folder in which you want to contribute
-    3. then add your file with your username or file name should be your username ----->
-    4. username.json
-    5. Make pull request
+* [About](#-about)
+* [Why contribute here?](#-why-contribute-here)
+* [How to contribute (quick)](#-how-to-contribute-quick)
+* [Rules & quality expectations](#-rules--quality-expectations)
+* [Folder structure & naming conventions](#-folder-structure--naming-conventions)
+* [How to open a pull request (detailed)](#-how-to-open-a-pull-request-detailed)
+* [Good first issues](#-good-first-issues)
+* [Community & Code of Conduct](#-community--code-of-conduct)
+* [License](#-license)
+* [Maintainers](#-maintainers)
 
+---
 
+## ❓ About
 
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+This repository collects beginner-friendly programs, algorithms, and small projects across different programming languages. It is intended for learning, practicing Git/GitHub workflows, and celebrating HacktoberFest by making valid contributions.
 
-Contributions of of any doc type is acceptable. but that should be meaning full!
+Contributions can include:
 
-## License
+* New algorithms or problem solutions
+* Small utilities or scripts
+* Documentation improvements and examples
+* Fixes to existing programs
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
 
-To the extent possible under law, [Keshav Singh](https://www.linkedin.com/in/keshavsingh4522/) has waived all copyright and related or neighboring rights to this work.
+## 🤝 Why contribute here?
+
+* Beginner-focused: reviewers provide encouraging, constructive feedback.
+* Multi-language: add solutions in the language you know.
+* Low barrier: small, meaningful PRs are welcome and reviewed.
+
+---
+
+## 🛠 How to contribute (quick)
+
+1. Fork this repository
+2. Clone your fork locally
+3. Create a branch: `git checkout -b feat/<short-description>`
+4. Add your solution inside the correct language folder
+5. Commit, push, and open a Pull Request
+
+Full instructions are below.
+
+---
+
+## 📏 Rules & quality expectations
+
+Please follow these to keep the project useful for learners:
+
+1. **Place files in the correct language folder.** See the folder list below.
+2. **File naming:** be descriptive and unique. Example: `binary_search_python.py` or `linked_list.cpp`.
+3. **Small, meaningful PRs only.** Large dumps or archive uploads will be closed.
+4. **Add comments** explaining logic and expected input/output where applicable.
+5. **No plagiarized or copy‑pasted entire repo content** from other large projects.
+6. **No single-line PRs** that add no value (these will be marked invalid).
+7. **Include a short explanation** in your PR description: what you added and why.
+8. **Follow basic style** for the language (PEP8 for Python, reasonable formatting for C/C++/Java, etc.)
+
+If a PR does not meet these guidelines a reviewer will request changes or close it as invalid.
+
+---
+
+## 🗂 Folder structure & naming conventions
+
+Suggested structure (create missing folders as needed):
+
+```
+HacktoberFest-2021/
+├─ C++/
+├─ Python/
+├─ Java/
+├─ JavaScript/
+├─ Web-Development/
+├─ Algorithms/
+├─ Data-Structures/
+└─ README.md
+```
+
+Naming conventions:
+
+* `problemname_language.extension` → `fibonacci_python.py`
+* If multiple files needed (input/test) add a short suffix: `merge_sort_cpp.cpp`, `merge_sort_cpp_test.cpp`
+
+Folder purpose guidance:
+
+* **Algorithms/** — language-agnostic algorithm explanations and pseudocode
+* **Data-Structures/** — implementations of classic data structures
+* **Web-Development/** — small web-page projects or examples
+
+---
+
+## ✅ How to open a Pull Request (detailed)
+
+1. **Fork** the repo (top-right of the repo page)
+2. **Clone** your fork:
+
+```bash
+git clone https://github.com/<your-username>/HacktoberFest-2021.git
+cd HacktoberFest-2021
+```
+
+3. **Create a feature branch** (never commit directly to `master`/`main`):
+
+```bash
+git checkout -b feat/add-<short-description>
+```
+
+4. **Add your file** in the correct folder. Include comments and a short example of usage (input / output) in the file header or as README changes.
+
+5. **Stage, commit, push**:
+
+```bash
+git add .
+git commit -m "Add <program-name> in <language> - <short description>"
+git push origin feat/add-<short-description>
+```
+
+6. **Open a Pull Request** from your fork → this repository. Use a helpful PR title and fill the description with:
+
+* What the code does
+* Example usage and sample input/output
+* Any dependencies or runtime requirements
+
+7. **Wait for review.** A maintainer or reviewer may suggest changes. Please respond politely and update your PR.
+
+---
+
+## 🌟 Good First Issues
+
+Look for issues labeled `good first issue` or `help wanted`. These are curated for beginners—try one to gain confidence. If none exist, open a small PR (documentation, small algorithm) and request review.
+
+---
+
+## 🧑‍🤝‍🧑 Community & Code of Conduct
+
+This project aims to be inclusive and welcoming. Please be respectful and constructive. For serious projects, add or link a full `CODE_OF_CONDUCT.md`. If maintainers haven’t added one, treat interactions with kindness and assume best intent.
+
+---
+
+## 📜 License
+
+This repository uses the **MIT License**.
+
+Add a `LICENSE` file with MIT text if not present. By contributing you license your contribution under MIT.
+
+---
+
+## ⚙️ Maintainers
+
+Primary repo: `keshavsingh3197/HacktoberFest-2021`
+If you are the owner and want to be shown as the maintainer, update the Maintainers section below.
+
+Maintainers:
+
+* `keshavsingh3197` (owner)
+
+---
+
+## 🚀 Next steps (recommended)
+
+1. Add this `README.md` to the repo root (replace existing README).
+2. Add `CONTRIBUTING.md`, PR/Issue templates, and `CODE_OF_CONDUCT.md` to reduce spam and set expectations.
+3. Optionally add a simple CI check to detect empty or one-line PRs.
+
+---
+
+Thanks for making open-source easier for beginners — have fun and happy hacking!
